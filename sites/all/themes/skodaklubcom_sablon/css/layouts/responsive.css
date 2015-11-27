@@ -1,11 +1,18 @@
 /**
  * Skodaklub.com design, Copyright 2015
  */
-#page,
-.region-bottom {
-  margin-left: auto;
-  margin-right: auto;
+ 
+/**
+ * Főoldali elrendezés
+ */
+
+#page /*,
+region-bottom*/ {
+  position: relative;
   width: 1200px;
+  margin: auto;
+  /*margin-left: auto;
+  margin-right: auto; */
 }
 
 /* Apply the shared properties of grid items in a single, efficient ruleset. */
